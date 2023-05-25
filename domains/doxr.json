@@ -1,1 +1,11 @@
-
+{
+  "owner": {
+    "username": "doxr-code",
+    "email": "redforcearmy@outlook.com"
+  },
+  
+  "record": {
+    "CNAME": "86670803-c2d9-41d8-a4a5-64ccc0a8f39f.id.repl.co",
+    "TXT": "replit-verify=86670803-c2d9-41d8-a4a5-64ccc0a8f39f"
+  }
+}
